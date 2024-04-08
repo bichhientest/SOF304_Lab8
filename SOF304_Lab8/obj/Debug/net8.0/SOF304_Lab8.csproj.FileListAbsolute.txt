@@ -1,0 +1,14 @@
+C:\SOF304_Lab8\SOF304_Lab8\bin\Debug\net8.0\SOF304_Lab8.exe
+C:\SOF304_Lab8\SOF304_Lab8\bin\Debug\net8.0\SOF304_Lab8.deps.json
+C:\SOF304_Lab8\SOF304_Lab8\bin\Debug\net8.0\SOF304_Lab8.runtimeconfig.json
+C:\SOF304_Lab8\SOF304_Lab8\bin\Debug\net8.0\SOF304_Lab8.dll
+C:\SOF304_Lab8\SOF304_Lab8\bin\Debug\net8.0\SOF304_Lab8.pdb
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\SOF304_Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\SOF304_Lab8.AssemblyInfoInputs.cache
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\SOF304_Lab8.AssemblyInfo.cs
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\SOF304_Lab8.csproj.CoreCompileInputs.cache
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\SOF304_Lab8.dll
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\refint\SOF304_Lab8.dll
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\SOF304_Lab8.pdb
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\SOF304_Lab8.genruntimeconfig.cache
+C:\SOF304_Lab8\SOF304_Lab8\obj\Debug\net8.0\ref\SOF304_Lab8.dll

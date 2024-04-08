@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SOF304_Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D177E9-B9EA-45CB-91E4-95B6A3DF0ECF}|SOF304_Lab8.1Tests\\SOF304_Lab8.1Tests.csproj|c:\\sof304_lab8\\sof304_lab8.1tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D177E9-B9EA-45CB-91E4-95B6A3DF0ECF}|SOF304_Lab8.1Tests\\SOF304_Lab8.1Tests.csproj|solutionrelative:sof304_lab8.1tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD12D94-8039-4255-BB19-8D85367E29E2}|SOF304_Lab8.1\\SOF304_Lab8.1.csproj|c:\\sof304_lab8\\sof304_lab8.1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD12D94-8039-4255-BB19-8D85367E29E2}|SOF304_Lab8.1\\SOF304_Lab8.1.csproj|solutionrelative:sof304_lab8.1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD12D94-8039-4255-BB19-8D85367E29E2}|SOF304_Lab8.1\\SOF304_Lab8.1.csproj|c:\\sof304_lab8\\sof304_lab8.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD12D94-8039-4255-BB19-8D85367E29E2}|SOF304_Lab8.1\\SOF304_Lab8.1.csproj|solutionrelative:sof304_lab8.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F10371-5A70-42FF-9AFA-947AA9D41486}|SOF304_Lab8.UnitTests\\SOF304_Lab8.UnitTests.csproj|c:\\sof304_lab8\\sof304_lab8.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F10371-5A70-42FF-9AFA-947AA9D41486}|SOF304_Lab8.UnitTests\\SOF304_Lab8.UnitTests.csproj|solutionrelative:sof304_lab8.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D177E9-B9EA-45CB-91E4-95B6A3DF0ECF}|SOF304_Lab8.1Tests\\SOF304_Lab8.1Tests.csproj|c:\\sof304_lab8\\sof304_lab8.1tests\\sof304_lab8.1tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22D177E9-B9EA-45CB-91E4-95B6A3DF0ECF}|SOF304_Lab8.1Tests\\SOF304_Lab8.1Tests.csproj|solutionrelative:sof304_lab8.1tests\\sof304_lab8.1tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186FB159-E117-4126-89E8-958EF40DBFEA}|SOF304_Lab8\\SOF304_Lab8.csproj|c:\\sof304_lab8\\sof304_lab8\\converrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186FB159-E117-4126-89E8-958EF40DBFEA}|SOF304_Lab8\\SOF304_Lab8.csproj|solutionrelative:sof304_lab8\\converrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186FB159-E117-4126-89E8-958EF40DBFEA}|SOF304_Lab8\\SOF304_Lab8.csproj|c:\\sof304_lab8\\sof304_lab8\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186FB159-E117-4126-89E8-958EF40DBFEA}|SOF304_Lab8\\SOF304_Lab8.csproj|solutionrelative:sof304_lab8\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186FB159-E117-4126-89E8-958EF40DBFEA}|SOF304_Lab8\\SOF304_Lab8.csproj|c:\\sof304_lab8\\sof304_lab8\\iconvertrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186FB159-E117-4126-89E8-958EF40DBFEA}|SOF304_Lab8\\SOF304_Lab8.csproj|solutionrelative:sof304_lab8\\iconvertrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186FB159-E117-4126-89E8-958EF40DBFEA}|SOF304_Lab8\\SOF304_Lab8.csproj|c:\\sof304_lab8\\sof304_lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186FB159-E117-4126-89E8-958EF40DBFEA}|SOF304_Lab8\\SOF304_Lab8.csproj|solutionrelative:sof304_lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SOF304_Lab8.1Tests",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8.1Tests\\SOF304_Lab8.1Tests.csproj",
+              "RelativeDocumentMoniker": "SOF304_Lab8.1Tests\\SOF304_Lab8.1Tests.csproj",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8.1Tests\\SOF304_Lab8.1Tests.csproj",
+              "RelativeToolTip": "SOF304_Lab8.1Tests\\SOF304_Lab8.1Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T01:10:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8.1Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab8.1Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8.1Tests\\UnitTest1.cs",
+              "RelativeToolTip": "SOF304_Lab8.1Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T01:08:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8.1\\BankAccount.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab8.1\\BankAccount.cs",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8.1\\BankAccount.cs",
+              "RelativeToolTip": "SOF304_Lab8.1\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T01:05:07.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8.1\\Program.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab8.1\\Program.cs",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8.1\\Program.cs",
+              "RelativeToolTip": "SOF304_Lab8.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T01:04:11.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IConvertRate.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8\\IConvertRate.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab8\\IConvertRate.cs",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8\\IConvertRate.cs",
+              "RelativeToolTip": "SOF304_Lab8\\IConvertRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:12:13.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab8.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "SOF304_Lab8.UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T00:58:41.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrencyConverter.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8\\CurrencyConverter.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab8\\CurrencyConverter.cs",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8\\CurrencyConverter.cs",
+              "RelativeToolTip": "SOF304_Lab8\\CurrencyConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T00:50:38.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConverRate.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8\\ConverRate.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab8\\ConverRate.cs",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8\\ConverRate.cs",
+              "RelativeToolTip": "SOF304_Lab8\\ConverRate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T00:44:48.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab8\\SOF304_Lab8\\Program.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab8\\Program.cs",
+              "ToolTip": "C:\\SOF304_Lab8\\SOF304_Lab8\\Program.cs",
+              "RelativeToolTip": "SOF304_Lab8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T00:43:11.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
